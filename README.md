@@ -1,2 +1,2 @@
 # waymo
-Self-driving cars powered by fsm
+Backend systems for self-driving cars with convinient dsl
